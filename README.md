@@ -5,3 +5,36 @@ Bienvenue dans Study. En utilisant notre application, vous acceptez les termes e
 Politique de Confidentialité
 
 Cette politique de confidentialité décrit comment Study collecte, utilise, partage et protège les informations personnelles des utilisateurs de Study. En utilisant notre application, vous consentez à la collecte et à l'utilisation de vos informations comme décrit dans cette politique. Collecte d'Informations Nous collectons des informations personnelles telles que votre nom, adresse email, et données de localisation lorsque vous utilisez notre application. Nous pouvons également recueillir des informations sur votre utilisation de l'application, telles que les fonctionnalités utilisées et les préférences. Utilisation des Informations Vos informations sont utilisées pour fournir, maintenir et améliorer notre application, pour répondre à vos demandes et pour communiquer avec vous. Nous pouvons également utiliser vos informations pour vous envoyer des publicités et des promotions. Partage d'Informations Nous ne partageons pas vos informations personnelles avec des tiers, sauf si cela est nécessaire pour fournir notre service, répondre à des exigences légales, ou protéger nos droits. Sécurité des Informations Nous prenons des mesures pour protéger vos informations contre l'accès non autorisé, la modification, la divulgation ou la destruction. Vos Droits Vous avez le droit de consulter, modifier ou supprimer vos informations personnelles. Vous pouvez exercer ces droits en nous contactant à contact.app.study@gmail.com. Modifications de la Politique de Confidentialité Nous pouvons modifier cette politique de confidentialité de temps à autre. Nous vous encourageons à la consulter régulièrement pour rester informé de la manière dont nous protégeons vos informations. Contactez-Nous Pour toute question concernant cette politique de confidentialité, veuillez nous contacter à contact.app.study@gmail.com.
+
+
+
+CONTRAT DE LICENCE UTILISATEUR FINAL DE STUDYAI
+
+IMPORTANT : VEUILLEZ LIRE ATTENTIVEMENT CE CONTRAT AVANT D'UTILISER L'APPLICATION.
+
+Ce Contrat de Licence Utilisateur Final (« CLUF ») est un accord légal entre vous, l'utilisateur final, et Eliott Foveau (« le Développeur »), le créateur de l'application StudyAI (« l'Application »).
+
+En téléchargeant, installant ou utilisant l'Application, vous acceptez d'être lié par les termes de ce CLUF. Si vous n'acceptez pas les termes de ce CLUF, n'utilisez pas l'Application.
+
+Licence
+Le Développeur vous accorde une licence non exclusive, non transférable et révocable pour utiliser l'Application exclusivement pour votre usage personnel et non commercial.
+Vous vous engagez à ne pas copier, modifier, adapter, revendre, distribuer, transmettre ou décompiler l'Application ou le logo associé.
+Création de Compte
+Pour utiliser l'Application, vous devez créer un compte. Vous acceptez de fournir des informations exactes et de maintenir la sécurité de votre compte.
+Propriété Intellectuelle
+Le Développeur détient tous les droits sur l'Application et son contenu, y compris le logo. Ces éléments sont protégés par les lois sur la propriété intellectuelle.
+Restrictions
+L'Application est actuellement disponible uniquement pour les utilisateurs situés en France. Il n'y a pas de restriction d'âge pour l'utilisation de l'Application.
+Limitation de Responsabilité
+Le Développeur ne garantit pas l'exactitude des informations fournies par l'Application et n'est pas responsable des interruptions de service.
+Support et Mises à Jour
+Le Développeur peut fournir des mises à jour régulières et offre un support via une adresse e-mail indiquée dans l'Application.
+Résiliation
+Le Développeur se réserve le droit de résilier votre accès à l'Application en cas de non-respect des termes de ce CLUF.
+Loi Applicable
+Ce CLUF est régi par la loi française. Tout litige découlant de l'utilisation de l'Application sera soumis à la compétence des tribunaux français.
+Politique de Confidentialité
+L'Application utilise Firebase pour collecter et stocker vos données. Vous avez la possibilité de supprimer votre compte et vos données.
+Règlement des Litiges
+En cas de litige avec des conséquences significatives, le Développeur se réserve le droit de prendre des mesures judiciaires pour résoudre la situation.
+En utilisant l'Application, vous reconnaissez avoir lu et compris ce CLUF et vous engagez à respecter ses conditions.
