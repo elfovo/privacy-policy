@@ -6,7 +6,6 @@ Pour toute question ou demande d'information, n'hésitez pas à nous contacter v
 
 
 
-
 **Informations**
 
 **Conditions d’Utilisation**
