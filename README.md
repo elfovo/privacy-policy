@@ -60,7 +60,7 @@ Cette politique de confidentialité décrit comment EduCoAI collecte, utilise, p
    Nous pouvons modifier cette politique de confidentialité de temps à autre. Nous vous encourageons à la consulter régulièrement pour rester informé de la manière dont nous protégeons vos informations.
 
 7. **Contactez-Nous**
-   Pour toute question concernant cette politique de confidentialité, veuillez nous contacter à contact.app.educoai@gmail.com.
+   Pour toute question concernant cette politique de confidentialité, veuillez nous contacter à educoai.contact@gmail.com
 
 **CONTRAT DE LICENCE UTILISATEUR FINAL DE EDUCOAI**
 
