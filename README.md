@@ -1,3 +1,12 @@
+*Bienvenue sur le site de l'entreprise Foveau Eliott !
+
+Nous sommes responsable de l'application 'EducoAI' et enregistrés sous le numéro SIRET 98526981000018. Notre siège social est situé à Plozévet, dans le département du Finistère. En tant qu'entrepreneur individuel, nous nous engageons à fournir des services de qualité adaptés aux besoins de nos clients.
+
+Pour toute question ou demande d'information, n'hésitez pas à nous contacter via ce mail : educoai.contact@gmail.com
+
+
+
+
 **Informations**
 
 **Conditions d’Utilisation**
@@ -26,7 +35,7 @@ Bienvenue dans EduCoAI. En utilisant notre application, vous acceptez les termes
    EduCoAI ne sera pas responsable des dommages indirects ou accidentels résultant de votre utilisation de l’application.
 
 8. **Contact**
-   Pour toute question concernant ces conditions, veuillez nous contacter à educoai.educoai@gmail.com, merci.
+   Pour toute question concernant ces conditions, veuillez nous contacter à educoai.contact@gmail.com, merci.
 
 **Politique de Confidentialité**
 
@@ -45,7 +54,7 @@ Cette politique de confidentialité décrit comment EduCoAI collecte, utilise, p
    Nous prenons des mesures pour protéger vos informations contre l’accès non autorisé, la modification, la divulgation ou la destruction.
 
 5. **Vos Droits**
-   Vous avez le droit de consulter, modifier ou supprimer vos informations personnelles. Vous pouvez exercer ces droits en nous contactant à educoai.educoai@gmail.com.
+   Vous avez le droit de consulter, modifier ou supprimer vos informations personnelles. Vous pouvez exercer ces droits en nous contactant à educoai.contact@gmail.com
 
 6. **Modifications de la Politique de Confidentialité**
    Nous pouvons modifier cette politique de confidentialité de temps à autre. Nous vous encourageons à la consulter régulièrement pour rester informé de la manière dont nous protégeons vos informations.
