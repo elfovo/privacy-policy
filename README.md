@@ -1,6 +1,4 @@
-*Bienvenue sur le site de l'entreprise Foveau Eliott !
 
-Nous sommes responsable de l'application 'EducoAI' et enregistrés sous le numéro SIRET 98526981000018. Notre siège social est situé à Plozévet, dans le département du Finistère. En tant qu'entrepreneur individuel, nous nous engageons à fournir des services de qualité adaptés aux besoins de nos clients.
 
 Pour toute question ou demande d'information, n'hésitez pas à nous contacter via ce mail : educoai.contact@gmail.com
 
